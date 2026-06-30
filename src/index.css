@@ -1,0 +1,3 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: #0B1A0C; }
+button { font-family: 'Courier New', monospace; }
